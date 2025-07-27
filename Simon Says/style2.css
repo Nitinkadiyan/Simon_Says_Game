@@ -1,0 +1,55 @@
+.red{
+    background-color: rgb(220, 195, 68);
+    height: 180px;
+    width: 180px;
+    margin: 3rem;
+  
+}
+.green{
+     background-color: rgb(68, 202, 112);
+     height: 180px;
+    width: 180px;
+    margin: 3rem;
+}
+.yellow{
+     background-color: rgb(156, 49, 106);
+     height: 180px;
+    width: 180px;
+    margin: 3rem;
+}
+.blue{
+     background-color: rgb(106, 149, 206);
+   height: 180px;
+    width: 180px;
+    margin: 3rem;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    height: 180px;
+    width: 180px;
+    margin: 3rem;
+     border: 10px solid black;
+    border-radius: 20%;
+    align-items: center;
+}
+    
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: azure;
+}
+.divcontainer{
+    display: inline-block;
+  margin-top: 20px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(42, 18, 164);
+}

@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.div input{
+    height: 50px;;
+    width: 300px;
+    margin-top: 50px;
+}
+.div button{
+    height: 55px;
+    width: 100px;
+}
+ul{
+    font-size: larger;
+    font-weight: 600;
+    font-family:   sans-serif;
+}
+li{
+    margin-top: 10px;
+}
