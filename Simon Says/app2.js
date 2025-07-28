@@ -77,7 +77,7 @@ function checkAnswer(currentIdx) {
     document.body.style.backgroundColor = "red";
 
     setTimeout(() => {
-      document.body.style.backgroundColor = "#f0f0f0";
+      document.body.style.backgroundColor = "#c5d5b6ff";
     }, 300);
 
     resetGame();
